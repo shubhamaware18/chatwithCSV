@@ -11,7 +11,7 @@ Follow these steps to set up and run ChatCSV on your local machine:
 2. **Clone the Repository:** Clone the ChatCSV repository to your local machine.
 
     ```bash
-    git clone https://github.com/your-username/chat-with-csv.git
+    git clone https://github.com/shubhamaware18/chatwithCSV.git
     ```
 
 3. **Navigate to the Repository:** Change your current directory to the cloned repository.
